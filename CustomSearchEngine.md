@@ -2,9 +2,7 @@
 
 ## Google Chrome, Vivaldi, Opera, etc...
 
-If you plan on using only Google, the flag `enable-windows-desktop-search-redirection` is your friend.  
-
-If not, the [Chrometana](https://chrome.google.com/webstore/detail/chrometana-redirect-bing/kaicbfmipfpfpjmlbpejaoaflfdnabnc) addon works for you.
+The [Chrometana](https://chrome.google.com/webstore/detail/chrometana-redirect-bing/kaicbfmipfpfpjmlbpejaoaflfdnabnc) addon works for you.
 
 ## Firefox, Waterfox, Palemoon, etc...
 
